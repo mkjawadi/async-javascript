@@ -1,0 +1,11 @@
+{
+  "name": "async-javascript",
+  "version": "1.0.0",
+  "description": "This is an advanced and async javascript demo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kumail Jawadi",
+  "license": "ISC"
+}
